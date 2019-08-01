@@ -1,0 +1,19 @@
+{
+  "name": "xl-jsmap",
+  "version": "1.0.1",
+  "description": "获取到打包后 sourece map 位置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/xl-map.js",
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "shelljs": "^0.8.2",
+    "source-map": "^0.7.3",
+    "yargs": "^12.0.1"
+  }
+}
