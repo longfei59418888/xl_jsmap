@@ -1,6 +1,6 @@
 {
   "name": "xl-jsmap",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "获取到打包后 sourece map 位置",
   "main": "index.js",
   "scripts": {
